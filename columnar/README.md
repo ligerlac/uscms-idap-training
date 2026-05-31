@@ -1,4 +1,4 @@
-# Tutorial on columnar analysis at US-CMS on June 1, 2026, at University of Maryland
+# Tutorial on columnar analysis
 
 ## Local setup
 
