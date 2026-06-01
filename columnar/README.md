@@ -1,4 +1,4 @@
-# Tutorial on columnar analysis
+# Tutorial on columnar analysis and uproot
 
 ## Local setup
 
