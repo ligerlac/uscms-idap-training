@@ -181,5 +181,3 @@ cython_debug/
 figures/
 # All ROOT files
 *.root
-
-servicex.yaml
