@@ -1,0 +1,6 @@
+api_endpoints:
+  - endpoint: https://servicex-test.geddes.rcac.purdue.edu
+    name: servicex-test-purdue-af
+
+cache_path: /tmp/servicex/cache-dir
+shortened_downloaded_filename: true
